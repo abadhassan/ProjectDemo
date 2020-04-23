@@ -25,7 +25,7 @@ gem 'jbuilder', '~> 2.7'
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 #file upload
-gem 'bootstrap', '~> 4.0.0'
+gem 'bootstrap', '~> 4.3.1'
 gem 'carrierwave', '~> 1.3', '>= 1.3.1'
 gem 'bootstrap-sass', '~> 3.2.0'
 gem 'jquery-rails'
