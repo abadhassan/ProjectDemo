@@ -26,7 +26,7 @@ gem 'jbuilder', '~> 2.7'
 # gem 'image_processing', '~> 1.2'
 #file upload
 gem 'bootstrap', '~> 4.0.0'
-gem 'carrierwave', '~> 1.3', '>= 1.3.1'
+gem 'carrierwave', '~> 1.3'
 gem 'bootstrap-sass', '~> 3.2.0'
 gem 'jquery-rails'
 gem 'active_model_serializers', '~> 0.10.0'
